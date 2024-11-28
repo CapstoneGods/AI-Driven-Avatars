@@ -8,7 +8,7 @@ This repository contains all the files for the Proof of Concept (POC) of our AI-
     Screenshot of our Proof of Concept
 </p>
 
-**Note**: This project requires a device with sufficient GPU memory and a compatible CUDA installation.
+**Note**: This project requires a device with sufficient GPU memory (at least 16GB) and a compatible CUDA installation.
 
 ## Access our demo videos
 You can view some demo videos of our POC on our [YouTube playlist](https://youtube.com/playlist?list=PLopFiGjXtoU1K1Oa2MK6S6JiY1zNR-5u3&si=4BveFoR-_C0o59OS).
